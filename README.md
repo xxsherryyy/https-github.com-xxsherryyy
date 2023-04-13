@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sherry 👩‍💻!</h1>
 
-- 🎥 I’m make tech content [my YouTube content](https://www.youtube.com/@thecodetechtives)
+- 🎥 I make tech content [my YouTube](https://www.youtube.com/@thecodetechtives)
 
 - 📚 I’m currently learning **Blender, ThreeJs ...**
 
